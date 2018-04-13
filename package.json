@@ -1,0 +1,15 @@
+{
+  "name": "weatherAPI",
+  "version": "0.0.1",
+  "author": "Intercompany - HealthyAI",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cfenv": "^1.0.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
+}
